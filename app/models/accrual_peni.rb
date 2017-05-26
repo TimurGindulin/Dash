@@ -1,0 +1,2 @@
+class AccrualPeni < ApplicationRecord
+end

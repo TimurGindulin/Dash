@@ -1,0 +1,2 @@
+class BalancePeni < ApplicationRecord
+end

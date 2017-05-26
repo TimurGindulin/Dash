@@ -1,0 +1,2 @@
+class Accrual < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class PaymentPeni < ApplicationRecord
+end
